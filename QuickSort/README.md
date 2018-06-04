@@ -1,4 +1,5 @@
-Problem Statement
+# Problem Statement
+
 The file contains all of the integers between 1 and 10,000 (inclusive, with no repeats) in unsorted order. 
 The integer in the row of the file gives you the entry of an input array.
 
